@@ -1,0 +1,4 @@
+c:\users\1\documents\visual studio 2017\Projects\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+c:\users\1\documents\visual studio 2017\Projects\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+c:\users\1\documents\visual studio 2017\Projects\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+c:\users\1\documents\visual studio 2017\Projects\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
